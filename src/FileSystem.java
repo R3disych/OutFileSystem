@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class FileSystem {
     public static void main(String[] args) {
+        //hola
         Scanner userInput = new Scanner(System.in);
         System.out.println("Введите путь к директории(файлу):");
 
